@@ -8,7 +8,7 @@
 <div>
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-  Linkedin -> https://www.linkedin.com/in/andre-jacobs-454a781a1/
+  Linkedin -> https://www.linkedin.com/in/andre-jacobs-454a781a1/ <br>
   Instagram -> @andre.j145
   </p>
 </div>
